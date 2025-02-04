@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+Pillow
+torch
+torchvision
+transformers
+einops
+pyvips
+timm
