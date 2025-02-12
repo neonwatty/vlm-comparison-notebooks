@@ -8,3 +8,5 @@ transformers
 einops
 pyvips
 timm
+opencv-python
+accelerate
