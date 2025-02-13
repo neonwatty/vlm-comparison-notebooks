@@ -10,3 +10,8 @@ pyvips
 timm
 opencv-python
 accelerate
+datasets
+ipykernel
+huggingface_hub
+ipywidgets
+datasets[vision]
