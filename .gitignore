@@ -1,9 +1,6 @@
 # extras
-*train
+*examples/*
 *.vscode
-*.gif
-*.webp
-*.jpeg
 
 # Byte-compiled / optimized / DLL files
 .vscode
